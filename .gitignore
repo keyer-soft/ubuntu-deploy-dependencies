@@ -27,9 +27,7 @@ tsconfig.tsbuildinfo
 
 #ts 临时文件
 *.ts.timestamp-*
-/application/dependency/docker-offline-bundle
-/application/services/liveGBS/LiveCMS/
-/application/services/liveGBS/LiveSMS/
+/docker-offline-bundle
 
 # 数据文件夹
 /mysql/data
