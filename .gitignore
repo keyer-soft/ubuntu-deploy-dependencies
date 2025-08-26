@@ -28,6 +28,9 @@ tsconfig.tsbuildinfo
 #ts 临时文件
 *.ts.timestamp-*
 /docker-offline-bundle
+dependencies.tar.xz
+/images
+docker-offline-bundle.tar.xz
 
 # 数据文件夹
 /mysql/data
